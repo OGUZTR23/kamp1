@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_TemelKonular", "01_TemelKonular\01_TemelKonular.csproj", "{D07667FA-F288-46D0-AB71-02E8352281B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_degiskenler", "02_degiskenler\02_degiskenler.csproj", "{BEF250ED-47D6-4678-9B5C-EA60E0F19B15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D07667FA-F288-46D0-AB71-02E8352281B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07667FA-F288-46D0-AB71-02E8352281B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07667FA-F288-46D0-AB71-02E8352281B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07667FA-F288-46D0-AB71-02E8352281B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEF250ED-47D6-4678-9B5C-EA60E0F19B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF250ED-47D6-4678-9B5C-EA60E0F19B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF250ED-47D6-4678-9B5C-EA60E0F19B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF250ED-47D6-4678-9B5C-EA60E0F19B15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
